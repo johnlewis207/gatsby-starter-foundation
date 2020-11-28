@@ -89,5 +89,3 @@ So what are you waiting for? Download Steam from your new Windows 10 Home machin
 * OS: Windows 10 Home
 
 <!--EndFragment-->
-
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
