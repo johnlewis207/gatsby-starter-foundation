@@ -1,53 +1,93 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+title: Best Gaming Laptops Under $1000
+slug: /best-gaming-laptops-under-1000
+date: 2020-11-28 19:31
+description: Complete buying guide and best products detail review is available here
+featuredImage: /assets/x5tya8uvkgxonyjfzxcows.jpg
 ---
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+<!--StartFragment-->
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** *And yet you haven't said what I told you to say!* How can any of us trust you?
+Gaming on a budget? We’ve got you covered. Our top fifteen list runs through the best gaming laptops under $1000. Take your pick — they’re all budget-friendly.
+
+Some folks think that gaming on a budget isn’t possible and that good gaming laptops under $1000 are few and far between. While it’s wise to invest in a computer or gaming system that offers the very best performance, it just isn’t realistic to expect us all to drop over $2,000 on a laptop. Besides, you can still have an excellent gaming experience from one of the best budget gaming laptops under $1000.
+
+If you’ve got a budget of up to $1000, then you’ve got enough cash to get something with a powerful processor and discrete graphics card — right where you want to be for playing your favorite games at max settings.
+
+Ready to start gaming without breaking the bank? Let’s dive into the top 15 gaming laptops on the market.
+
+> *Note that the products discussed on our site are independently selected by our editors. At no extra cost to you, HGG may collect a share of sales if you buy something through the links on our pages.*
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+## Zoom Out: A Comparison Table of the Best Gaming Laptops Under $1,000
+
+We’ll start with a quick comparison chart of the top 15 gaming laptops under $1,000. Note that they’ve been listed in price ascending order from least expensive to most expensive. For more detailed specs, check out the Zoom Out section below.
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+| IMAGE                                                                                                                                                                                                                                                                                                                                   | LAPTOP                                                                                                                                                                                                                                                                                       | CPU     | GPU              | RAM       | COST                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-31lwwPC1/w:90/h:345/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/ASUS-Vivobook-F512FA.jpg)                                                                                                                                                                          | [ASUS VivoBook F512FA](https://www.amazon.com/dp/B07RK5M35T/?tag=highgroundgaming-20)                                                                                                                                                                                                        | i3      | UHD Graphics 620 | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                                                                                                                                                                       |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-DWjj3Ixq/w:100/h:85/q:90/https://www.highgroundgaming.com/wp-content/uploads/2019/10/Acer-Swift-3-SF315.jpg)                                                                                                                                                                            | [Acer Swift 3 SF315](https://www.amazon.com/Acer-SF315-41G-R6MP-Display-Graphics-Windows/dp/B07GDYNK3B?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=6&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07GDYNK3B)          | Ryzen 7 | Radeon RX 540    | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                                                                                                                                                                       |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-d_Ut8V9d/w:100/h:450/q:90/https://www.highgroundgaming.com/wp-content/uploads/2018/11/Acer-Spin-5-Covertible-Laptop.jpg)                                                                                                                                                                | [Acer Spin 5](https://www.amazon.com/Acer-SP515-51GN-83YY-i7-8550U-GeForce-Convertible/dp/B07BRGNXB6?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=26&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07BRGNXB6)           | i7      | GTX 1050         | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                                                                                                                                                                       |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-cmJ4ROIE/w:90/h:531/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/Dell-Inspiron-i7559-763BLK-15.6-Inch-Gaming-Laptop.jpg)                                                                                                                                            | [Dell Inspirion i7559](https://www.amazon.com/Dell-Inspiron-i7559-3762GRY-Touchscreen-Generation/dp/B015PYZK4Q?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=10&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B015PYZK4Q) | i5      | GTX 960M         | 8GB DDR3  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                    |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-dayejoP5/w:100/h:401/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/Lenovo-Legion-Y7000.jpg)                                                                                                                                                                          | [Lenovo Legion Y7000](https://www.amazon.com/dp/B07P7MDH6X/?tag=highgroundgaming-20)                                                                                                                                                                                                         | i5      | GTX 1050 Ti      | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                    |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-Zf3XEDHc/w:100/h:95/q:90/https://www.highgroundgaming.com/wp-content/uploads/2019/10/Acer-Aspire-7.jpg)                                                                                                                                                                                 | [Acer Aspire 7](https://www.amazon.com/Acer-Display-i7-8750H-Fingerprint-A715-72G-71CT/dp/B07CZC81F6?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=30&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07CZC81F6)           | i7      | GTX 1050 Ti      | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                    |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-PkQu3e0L/w:100/h:150/q:90/https://www.highgroundgaming.com/wp-content/uploads/2019/10/2019-Lenovo-IdeaPad-L340-17.3.jpg)                                                                                                                                                                | [Lenovo IdeaPad L340](https://www.amazon.com/dp/B07XP15TP1/?tag=highgroundgaming-20)                                                                                                                                                                                                         | i5      | GTX 1650         | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                    |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-LHCMDxUu/w:100/h:332/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/Asus-FX504-TUF.jpg)                                                                                                                                                                               | [ASUS TUF FX504](https://www.amazon.com/dp/B085X9J9CN/?tag=highgroundgaming-20)                                                                                                                                                                                                              | i7      | GTX 1050 Ti      | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)                                                                                                                                                    |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-Ygfcof8z/w:90/h:150/q:90/https://www.highgroundgaming.com/wp-content/uploads/2019/10/Dell-G3579-7989BLK.jpg)                                                                                                                                                                            | [Dell G3579](https://www.amazon.com/Dell-Gaming-Laptop-i7-8750H-G3579-7989BLK-PUS/dp/B07BXG7725?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=50&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07BXG7725)                      | i7      | GTX 1050 Ti      | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-TsPNPVPq/w:90/h:450/q:90/https://www.highgroundgaming.com/wp-content/uploads/2018/11/OMEN-by-HP-15.6-Inch-Gaming-Laptop.jpg)                                                                                                                                                            | [HP OMEN DC1020NR](https://www.amazon.com/dp/B07SG1DY8T/?tag=highgroundgaming-20)                                                                                                                                                                                                            | i7      | GTX 1660 Ti      | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-2qvZjVM8/w:100/h:445/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/CUK-HP-Pavilion-15-Gaming-Notebook-Intel-i7-6700HQ-16GB-RAM-128GB-SSD-1TB-7200rpm-HDD-NVIDIA-GTX-960M-4GB-15.622-Full-HD-IPS-Windows-10-Latest-Cheap-Thin-Music-Production-Laptop-Under-1000.jpg) | [HP Pavilion CX0049NR](https://www.amazon.com/Exclusive-HP-Pavilion-i7-8750H-Windows-15-cx0042nr/dp/B07DQR6DQT?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=54&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07DQR6DQT) | i7      | GTX 1050 Ti      | 12GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-WYbGsrtb/w:85/h:150/q:90/https://www.highgroundgaming.com/wp-content/uploads/2019/10/MSI-GL62M.jpg)                                                                                                                                                                                     | [MSI GL62M](https://www.amazon.com/MSI-GL62M-7RD-1407-Performance-SteelSeries/dp/B072QT88DG?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=38&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B072QT88DG)                    | i5      | GTX 1050         | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-fZFu_KEA/w:100/h:652/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/MSI-GF63.jpg)                                                                                                                                                                                     | [MSI GF63](https://www.amazon.com/dp/B07WC92ZGF/?tag=highgroundgaming-20)                                                                                                                                                                                                                    | i7      | GTX 1650         | 8GB DDR4  | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-TX1Lrm52/w:100/h:461/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/ASUS-ROG-GL552VW-DH71-laptop.jpg)                                                                                                                                                                 | [ASUS ROG GL552VW](https://www.amazon.com/ASUS-GL552VW-DH71-15-Inch-Discrete-Metallic/dp/B01578ZKPO?imprToken=TXhRXyH.9ENOGDeJmvejoA&slotNum=46&psc=1&SubscriptionId=AKIAI5D6CCESQM6DOOZQ&tag=highgroundgaming-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01578ZKPO)            | i7      | GTX 960M         | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+| ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-w0RIcmJF/w:100/h:403/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/Acer-Predator-Helios-300-2020.jpg)                                                                                                                                                                | [Acer Predator Helios 300](https://www.amazon.com/dp/B07YM938TP/?tag=highgroundgaming-20)                                                                                                                                                                                                    | i7      | GTX 1660 TI      | 16GB DDR4 | ![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png)![](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-AI0CdkwA/w:24/h:40/q:90/https://www.highgroundgaming.com/wp-content/uploads/2016/11/money-icon.png) |
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+## What to Look for in a Gaming Laptop Under $1,000
+
+While the most powerful gaming laptops will run you a bit more than $1,000, there are plenty of ways to maximize your budget and get the most from your gaming experience. Before we look in-depth at the best gaming laptops under $1,000, let’s peek at the critical factors you should take into account on your search.
+
+**1. Choose a powerful CPU & dedicated GPU**\
+For around $1,000, you should be able to afford a new Intel i5 or i7 (or AMD equivalent) processor and dedicated graphics cards such as a GeForce GTX 1050 or 1050 Ti. With the exception of one or two less expensive models, all the laptops on our list have at least an i5 processor and dedicated GPU.
+
+**2. Make sure you’ve got enough RAM & storage.**\
+RAM is essential for maximizing your gaming performance. That’s why we recommend at least 8 gigs for a solid experience. In terms of storage, an SSD ensures the fastest load times, but it’ll likely cost you in terms of space. Want the best of both worlds? We recommend an SSD + HDD combo, which provides quick boot times and plenty of room for your game library.
+
+**3. Go with a reputable brand.**\
+There are tons of electronics makers out there, and they all like to think they’re the best. But this simply isn’t the case. Choosing a laptop from top brands like ASUS and Lenovo ensures quality control, and these models typically come with excellent warranties against defects. Still unsure? Check the rating section on popular sites like Amazon to see how each laptop measures up.
+
+## Zoom In: A Closer Look at the Best Gaming Laptops Under $1,000
+
+We like to make things easy for you here at High Ground Gaming. That’s why we’ve laid out the detailed specs of the top 15 ultimate gaming laptops for under a grand. Ready to find a top tier budget laptop for gaming? Check out our roundup below!
+
+**1. [ASUS VivoBook F512FA](https://www.amazon.com/dp/B07RK5M35T/?tag=highgroundgaming-20)**
+
+[![ASUS Vivobook F512FA](https://mljzsatzn43z.i.optimole.com/tP-GR8Q-31lwwPC1/w:500/h:345/q:90/https://www.highgroundgaming.com/wp-content/uploads/2020/03/ASUS-Vivobook-F512FA.jpg)](https://www.amazon.com/dp/B07RK5M35T/?tag=highgroundgaming-20)
+
+If you’re seeking a school or work laptop that can also do some light gaming, look no further than the ASUS VivoBook. This steal of a deal comes in under $500 and offers features everything you’d expect to see in laptops at this price range. That includes an M.2 SSD for fast load times, as well as 8GB of DDR4 RAM!
+
+The laptop is built atop Intel’s multi-core i3 Processor with UHD 620 Integrated Graphics, which is plenty powerful enough for your light gaming needs. The major downside? At 128GB, the drive is abysmally small, and you’ll probably want to get a portable one for your favorite titles.
+
+So what are you waiting for? Download Steam from your new Windows 10 Home machine and get to gaming.
+
+**High Ground Overview:**
+
+* Processor: Intel Core i3
+* Graphics: Intel UHD Graphics 620
+* Display: 15.6″ HD w/ NanoEdge
+* Memory: 8GB DDR4
+* Storage: 128GB SSD
+* OS: Windows 10 Home
+
+<!--EndFragment-->
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
-
-## It doesn't look so shiny to me.
-
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
-
-![]()
-
-1. Guards! Bring me the forms I need to fill out to have her taken away!
-2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
-3. You, a bobsleder!? That I'd like to see!
-
-### Daylight and everything.
-
-A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
-
-* Fry! Stay back! He's too powerful!
-* Look, last night was a mistake.
-* Please, Don-Bot… look into your hard drive, and open your mercy file!
-
-And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
-
-Fry! Quit doing the right thing, you jerk! I'm sure those windmills will keep them cool. I'm Santa Claus! Leela's gonna kill me. Then we'll go with that data file!
-
-That's right, baby. I ain't your loverboy Flexo, the guy you love so much. You even love anyone pretending to be him! Bite my shiny metal ass. Tell them I hate them. Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments."
-
-That's a popular name today. Little "e", big "B"? Hey, whatcha watching? A sexy mistake. A true inspiration for the children. Shut up and get to the point!
-
-Ven ve voke up, ve had zese wodies. Oh, all right, I am. But if anything happens to me, tell them I died robbing some old man. So, how 'bout them Knicks? Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-Shut up and get to the point! Take me to your leader! I can explain. It's very valuable. You guys realize you live in a sewer, right?
-
-Robot 1-X, save my friends! And Zoidberg! Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. I guess because my parents keep telling me to be more ladylike. As though!
-
-I daresay that Fry has discovered the smelliest object in the known universe! Oh right. I forgot about the battle. Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you.
-
-You wouldn't. Ask anyway! Is today's hectic lifestyle making you tense and impatient? Ven ve voke up, ve had zese wodies. Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-Fatal. Maybe I love you so much I love you no matter who you are pretending to be. Really?! You can see how I lived before I met you. Alright, let's mafia things up a bit. Joey, burn down the ship. Clamps, burn down the crew.
-
-Enough about your promiscuous mother, Hermes! We have bigger problems. Bender, being God isn't easy. If you do too much, people get dependent on you, and if you do nothing, they lose hope. You have to use a light touch. Like a safecracker, or a pickpocket.
