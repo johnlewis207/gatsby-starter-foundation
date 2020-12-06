@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Bings Electronics
-tagline: A electronics devices and gadgest hounest reviews.
+tagline: A hub of electronics devices and gadgets hounest reviews.
 featuredImage: /assets/bings-electronics.jpg
 cta:
   ctaText: About Us
