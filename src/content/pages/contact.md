@@ -1,8 +1,11 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact Us
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+You can send your query to **admin@bingselectronics.co.uk** to contact us.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+* Ask me a question
+* Give me feedback or suggestions about my site or a post or anything else.
+* For your Product review or promotion
+* OR Just say ‘hi’ to me
