@@ -5,8 +5,6 @@ title: About Us
 ---
 <!--StartFragment-->
 
-# About Us
-
 You need to know About Us. In everyday life, buying things may seem quite difficult because we all want to get the best of what we are buying, which is the reason why after a lot of brainstorming we decided to bring a website to life where it becomes convenient for people to buy and know the best thing that they are looking for.
 
 **Our Motto:**
