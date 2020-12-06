@@ -1,11 +1,15 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Bings Electronics
+tagline: A electronics devices and gadgest hounest reviews.
+featuredImage: /assets/bings-electronics.jpg
 cta:
-  ctaText: Know more
+  ctaText: About Us
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+<!--StartFragment-->
+
+Here at **Bings Electronics** , we ensure that the reader gets accurate and detailed information about different products that they may be interested in by providing a wide range of information and models regarding that product hence making the job and selection easy.
+
+<!--EndFragment-->
